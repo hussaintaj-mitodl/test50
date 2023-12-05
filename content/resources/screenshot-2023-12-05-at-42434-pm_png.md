@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test50-title/screenshot-2023-12-05-at-42434-pm.png
+file: /media/courses/test50/screenshot-2023-12-05-at-42434-pm.png
 file_size: 14298
 file_type: image/png
 image_metadata:
